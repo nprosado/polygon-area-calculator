@@ -1,3 +1,12 @@
+![](PolygonAreaCalculatorCover.png)
+
+### About this project
+
+This project is from freeCodeCamp's Scientific Computing with Python Certificate. This repository contains the prompt for the project as well as my solution for the assignment. 
+
+To run my shape_calculator code with the tests provided by freeCodeCamp for this project, feel free to visit [my replit](https://replit.com/@NataliaRosado1/polygon-area-calculator).
+
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
@@ -61,16 +70,3 @@ Square(side=4)
 8
 ```
 
-The unit tests for this project are in `test_module.py`.
-
-### Development
-
-Write your code in `shape_calculator.py`. For development, you can use `main.py` to test your `shape_calculator()` function. Click the "run" button and `main.py` will run.
-
-### Testing 
-
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
